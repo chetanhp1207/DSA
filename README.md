@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chetanhp1207/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/chetanhp1207/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/chetanhp1207/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chetanhp1207/DSA/tree/master/0344-reverse-string) |
@@ -31,9 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chetanhp1207/DSA/tree/master/0014-longest-common-prefix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetanhp1207/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetanhp1207/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/chetanhp1207/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
