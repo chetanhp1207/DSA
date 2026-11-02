@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chetanhp1207/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/chetanhp1207/DSA/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/chetanhp1207/DSA/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/chetanhp1207/DSA/tree/master/0509-fibonacci-number) |
 | [3099-harshad-number](https://github.com/chetanhp1207/DSA/tree/master/3099-harshad-number) |
 ## Array
 |  |
@@ -93,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chetanhp1207/DSA/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chetanhp1207/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chetanhp1207/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chetanhp1207/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
