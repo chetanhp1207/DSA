@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/chetanhp1207/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chetanhp1207/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/chetanhp1207/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/chetanhp1207/DSA/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/chetanhp1207/DSA/tree/master/0507-perfect-number) |
 | [3099-harshad-number](https://github.com/chetanhp1207/DSA/tree/master/3099-harshad-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chetanhp1207/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/chetanhp1207/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/chetanhp1207/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/chetanhp1207/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetanhp1207/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetanhp1207/DSA/tree/master/0215-kth-largest-element-in-an-array) |
