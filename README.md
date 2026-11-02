@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chetanhp1207/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/chetanhp1207/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/chetanhp1207/DSA/tree/master/0136-single-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chetanhp1207/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/chetanhp1207/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/chetanhp1207/DSA/tree/master/0242-valid-anagram) |
 ## Floyd's Cycle Finding Algorithm
