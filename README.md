@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chetanhp1207/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetanhp1207/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetanhp1207/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/chetanhp1207/DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/chetanhp1207/DSA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetanhp1207/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/chetanhp1207/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chetanhp1207/DSA/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chetanhp1207/DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/chetanhp1207/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/chetanhp1207/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chetanhp1207/DSA/tree/master/0242-valid-anagram) |
 ## Floyd's Cycle Finding Algorithm
 |  |
