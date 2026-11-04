@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/chetanhp1207/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/chetanhp1207/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/chetanhp1207/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/chetanhp1207/DSA/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/chetanhp1207/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/chetanhp1207/DSA/tree/master/0509-fibonacci-number) |
 | [3099-harshad-number](https://github.com/chetanhp1207/DSA/tree/master/3099-harshad-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chetanhp1207/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/chetanhp1207/DSA/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/chetanhp1207/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/chetanhp1207/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
