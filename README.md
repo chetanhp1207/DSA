@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/chetanhp1207/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetanhp1207/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chetanhp1207/DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/chetanhp1207/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/chetanhp1207/DSA/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
