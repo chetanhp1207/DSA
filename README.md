@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chetanhp1207/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/chetanhp1207/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/chetanhp1207/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chetanhp1207/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/chetanhp1207/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/chetanhp1207/DSA/tree/master/0509-fibonacci-number) |
 | [3099-harshad-number](https://github.com/chetanhp1207/DSA/tree/master/3099-harshad-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chetanhp1207/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/chetanhp1207/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chetanhp1207/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/chetanhp1207/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chetanhp1207/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/chetanhp1207/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetanhp1207/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/chetanhp1207/DSA/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chetanhp1207/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/chetanhp1207/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chetanhp1207/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chetanhp1207/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chetanhp1207/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chetanhp1207/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/chetanhp1207/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chetanhp1207/DSA/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chetanhp1207/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/chetanhp1207/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/chetanhp1207/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chetanhp1207/DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
