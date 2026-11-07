@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chetanhp1207/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetanhp1207/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/chetanhp1207/DSA/tree/master/0917-reverse-only-letters) |
+| [2351-first-letter-to-appear-twice](https://github.com/chetanhp1207/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chetanhp1207/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chetanhp1207/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/chetanhp1207/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/chetanhp1207/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/chetanhp1207/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/chetanhp1207/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chetanhp1207/DSA/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/chetanhp1207/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chetanhp1207/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/chetanhp1207/DSA/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
