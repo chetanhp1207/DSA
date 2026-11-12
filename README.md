@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chetanhp1207/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/chetanhp1207/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chetanhp1207/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/chetanhp1207/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/chetanhp1207/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chetanhp1207/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chetanhp1207/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/chetanhp1207/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/chetanhp1207/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
