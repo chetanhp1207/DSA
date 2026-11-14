@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/chetanhp1207/DSA/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/chetanhp1207/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/chetanhp1207/DSA/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/chetanhp1207/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [3099-harshad-number](https://github.com/chetanhp1207/DSA/tree/master/3099-harshad-number) |
 ## Array
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chetanhp1207/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/chetanhp1207/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/chetanhp1207/DSA/tree/master/0371-sum-of-two-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/chetanhp1207/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/chetanhp1207/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
