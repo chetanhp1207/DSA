@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/chetanhp1207/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/chetanhp1207/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chetanhp1207/DSA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/chetanhp1207/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/chetanhp1207/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/chetanhp1207/DSA/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/chetanhp1207/DSA/tree/master/0461-hamming-distance) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/chetanhp1207/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/chetanhp1207/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
