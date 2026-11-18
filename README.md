@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chetanhp1207/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chetanhp1207/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chetanhp1207/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetanhp1207/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/chetanhp1207/DSA/tree/master/0189-rotate-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/chetanhp1207/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/chetanhp1207/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/chetanhp1207/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chetanhp1207/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chetanhp1207/DSA/tree/master/0169-majority-element) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chetanhp1207/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chetanhp1207/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/chetanhp1207/DSA/tree/master/0217-contains-duplicate) |
