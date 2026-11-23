@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chetanhp1207/DSA/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/chetanhp1207/DSA/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/chetanhp1207/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/chetanhp1207/DSA/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/chetanhp1207/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/chetanhp1207/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chetanhp1207/DSA/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/chetanhp1207/DSA/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/chetanhp1207/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/chetanhp1207/DSA/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/chetanhp1207/DSA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/chetanhp1207/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chetanhp1207/DSA/tree/master/1929-concatenation-of-array) |
