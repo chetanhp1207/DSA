@@ -13,10 +13,12 @@ class Solution {
                 st.push(ch);
             }
         }
-        String str="";
-        for(char x:st){
-            str+=x;
-        }
-        return str;
+        StringBuilder str = new StringBuilder();
+
+    for(char x : st) {
+     str.append(x);
+    }
+
+    return str.toString();
     }
 }
