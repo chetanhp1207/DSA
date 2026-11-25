@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/chetanhp1207/DSA/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetanhp1207/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chetanhp1207/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/chetanhp1207/DSA/tree/master/1544-make-the-string-great) |
 | [2351-first-letter-to-appear-twice](https://github.com/chetanhp1207/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chetanhp1207/DSA/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/chetanhp1207/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chetanhp1207/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/chetanhp1207/DSA/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
